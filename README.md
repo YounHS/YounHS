@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 About YounHS:
   - 전문연구요원 (Technical Research Personnel) (군사훈련소집 2021-02-18 ~ 2021-03-11)
   - worked in IMR Inc.
-  - work in CyberTechFriend Inc.
+  - working in CyberTechFriends Inc.
   - MS. in Computer Engineering
   - [WEB portfolio](https://younhs.github.io/react-deploy/)
 
