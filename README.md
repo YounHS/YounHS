@@ -20,7 +20,9 @@ Here are some ideas to get you started:
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYounHS%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 About YounHS:
-  - 전문연구요원 (Technical Research Personnel) (군사훈련소집 2021-02-18 ~ 2021-03-11)
+  - 전문연구요원 (Technical Research Personnel) 
+    - 소집해제: 2022-03-06
+    - 군사훈련소집: 2021-02-18 ~ 2021-03-11
   - worked in IMR Inc.
   - working in CyberTechFriends Inc.
   - MS. in Computer Engineering
