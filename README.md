@@ -27,6 +27,7 @@ Here are some ideas to get you started:
   - **MS.** in Computer Engineering
   - [WEB portfolio](https://younhs.github.io/react-deploy/)
   - [Stack Overflow](https://stackoverflow.com/users/17246545/secy)
+  - [Velog](https://velog.io/@de_youn)
 
 
 ### Tech
