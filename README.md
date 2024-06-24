@@ -23,7 +23,9 @@ Here are some ideas to get you started:
   - **전문연구요원** (Technical Research Personnel) 
     - 소집해제: 2022-03-06
     - 군사훈련소집: 2021-02-18 ~ 2021-03-11
-  - working in CyberTechFriends Inc.
+  - working in Sunjin Corp. (2023-05-15 ~)
+  - worked in CyberTechFriends Inc. (2022-06-28 ~ 2023-05-12)
+  - worked in IMR Inc. (2019-03-04 ~ 2021-06-23)
   - **MS.** in Computer Engineering
   - [WEB portfolio](https://younhs.github.io/react-deploy/)
   - [Stack Overflow](https://stackoverflow.com/users/17246545/secy)
